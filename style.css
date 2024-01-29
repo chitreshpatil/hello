@@ -327,7 +327,7 @@ footer .cols .news-col form button i{
     font-size: 26px;
 }
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1300px) {
     .guarantee{
         flex-wrap: wrap;
         gap: 10px;
